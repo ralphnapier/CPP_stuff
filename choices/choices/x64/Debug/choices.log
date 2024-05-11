@@ -1,0 +1,5 @@
+﻿  choices.cpp
+C:\Users\Ralph\source\repos\choices\choices\choices.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Ralph\source\repos\choices\choices\choices.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Ralph\source\repos\choices\choices\choices.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  choices.vcxproj -> C:\Users\Ralph\source\repos\choices\x64\Debug\choices.exe
