@@ -1,6 +1,6 @@
 #include <iostream>
 #include <algorithm>
-
+// Proof of concept
 int numArray[5] = { 16, 2, 77, 40, 12071 }; // Khyrstie added the array here which you will be working with.
 int n = sizeof(numArray) / sizeof(numArray[0]);
 
